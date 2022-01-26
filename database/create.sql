@@ -1,3 +1,4 @@
+create database rest_api;
 create schema blog;
 
 create table blog.post (
